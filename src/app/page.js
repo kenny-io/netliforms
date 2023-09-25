@@ -10,7 +10,7 @@ export default function Home() {
           help! Shoot us a message and we will get back to you as soon as
           possible
         </p>
-        <form action="/success" class="space-y-8" netlify>
+        <form name="contact" action="/success" class="space-y-8" netlify>
           <div>
             <label
               htmlFor="email"
