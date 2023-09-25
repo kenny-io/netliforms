@@ -1,3 +1,4 @@
+import RegisterForm from './register/page';
 export default function Home() {
   return (
     <section className="bg-white dark:bg-gray-900 ">
@@ -75,6 +76,8 @@ export default function Home() {
             Send message
           </button>
         </form>
+        <br />
+        <RegisterForm />
       </div>
     </section>
   );
