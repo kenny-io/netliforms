@@ -14,8 +14,7 @@ export default function Home() {
           name="contact"
           action="/success"
           className="space-y-8"
-          data-netlify="true"
-          method="POST"
+          netlify
           data-netlify-recaptcha="true"
           netlify-honeypot="bot-field"
         >
