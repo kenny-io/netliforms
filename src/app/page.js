@@ -8,7 +8,7 @@ export default function Home() {
         </h2>
         <p className="mb-8 lg:mb-16 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">
           Are you facing any issues? Do you have any questions? We are here to
-          help! Shoot us a message and we will get back to you as soon as
+          help! Write us a message and we will get back to you as soon as
           possible
         </p>
         <form
